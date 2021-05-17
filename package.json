@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "cytoscape": "^3.19.0",
+    "d3": "^6.7.0",
+    "express": "^4.17.1",
+    "flowy": "^0.4.0",
+    "jsplumb": "^2.15.5",
+    "lodash": "^4.17.21",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.9"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "flow-chart-examples",
+  "description": "Example of a few flow chart vis options",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreaJulca/flow-chart-examples.git"
+  },
+  "keywords": [
+    "flowchart"
+  ],
+  "author": "Andrea Batch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DreaJulca/flow-chart-examples/issues"
+  },
+  "homepage": "https://github.com/DreaJulca/flow-chart-examples#readme"
+}
